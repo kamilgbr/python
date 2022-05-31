@@ -1,5 +1,5 @@
 def decoder():
-    f = open("test.txt", 'r')
+    f = open("klucz.txt", 'r')
     lines = f.readlines()
     index = 5
 
